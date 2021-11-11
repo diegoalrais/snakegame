@@ -1,0 +1,22 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+    color: rgb(52, 165, 52);
+}
+
+img {
+    position: inherit;
+}
+
+h1 {
+    text-align: center;
+    text-decoration-style: solid;
+    font: 50px Arial, sans-serif;
+    color: black;
+}
+
