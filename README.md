@@ -10,7 +10,7 @@ Minhas alterações:
 
 
 
-![jogocobrinha.jpg](https://raw.githubusercontent.com/diegoalrais/.gitHub/master/.github/imagensjogocobrinha.png)
+![jogocobrinha.png](https://raw.githubusercontent.com/diegoalrais/.gitHub/blob/master/jogocobrinha.png)
 
 
 
